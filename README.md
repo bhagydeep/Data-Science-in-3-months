@@ -60,3 +60,7 @@ After completing this course, start applying for jobs, doing contract work, star
 * [Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 * [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
+
+## Week 1-2 : ALgorithms and Machine Learning 
+
+### <code>Math of Machine Learning</code>
