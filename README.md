@@ -75,3 +75,22 @@ After completing this course, start applying for jobs, doing contract work, star
 
 * Try your best at a competition of your choice from Kaggle. Make sure to add great documentation to your github repository! Github is the new resume. 
 
+# Month 3 - Real-World Tools
+
+## Week 1 Databases (SQL + NoSQL)
+
+* [Udacity](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+* [EdX](https://www.edx.org/course/introduction-to-nosql-data-solutions-2)
+
+## Week 2 Hadoop & Map Reduce + Spark
+
+* [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+* [Spark Workshop](https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf)
+
+
+## Week 3 Data Storytelling
+
+* [Edx](https://www.edx.org/course/analytics-storytelling-impact-1)
+
+## Week 4 Kaggle Project #3
+Try your best at a competition of your choice from Kaggle.
