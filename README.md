@@ -64,7 +64,14 @@ After completing this course, start applying for jobs, doing contract work, star
 ## Week 1-2 : ALgorithms and Machine Learning 
 
 ### <code>Math of Machine Learning CheatSheets</code>
-* [Statistics](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
-* [Probability](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
-* [Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
-* [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+* [Columbia](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+
+## Week 3 : Deep Learning
+
+* Part 1 and 2 of DL Book
+* Siraj Raval 
+
+## Week 4 - Kaggle Project - 2
+
+* Try your best at a competition of your choice from Kaggle. Make sure to add great documentation to your github repository! Github is the new resume. 
+
