@@ -95,3 +95,7 @@ After completing this course, start applying for jobs, doing contract work, star
 
 ## Week 4 Kaggle Project #3
 Try your best at a competition of your choice from Kaggle.
+
+
+## for Machine Learning Practice Challenges 
+[CLick here](https://www.analyticsvidhya.com/)
