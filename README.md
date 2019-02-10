@@ -7,7 +7,7 @@ After completing this course, start applying for jobs, doing contract work, star
 
 #### <code> Find a study buddy </code>
 
-* You can find that on our team [website]() and on my youtube [Channel]() 
+* You can find that on our team [website](https://www.analyticsvidhya.com/) and on my youtube [Channel](https://www.youtube.com/channel/UCEmaIhwwcot0vtzw6PDOF4Q?view_as=subscriber) 
 
 #### <code> Components </code>
 
